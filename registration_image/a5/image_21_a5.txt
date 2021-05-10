@@ -1,0 +1,56 @@
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\parallel\registry_parallel.impl.hpp (96) cv::parallel::ParallelBackendRegistry::ParallelBackendRegistry core(parallel): Enabled backends(3, sorted by priority): ONETBB(1000); TBB(990); OPENMP(980)
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load C:\Program Files\opencv\build\x64\vc15\bin\opencv_core_parallel_onetbb452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load opencv_core_parallel_onetbb452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load C:\Program Files\opencv\build\x64\vc15\bin\opencv_core_parallel_tbb452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load opencv_core_parallel_tbb452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load C:\Program Files\opencv\build\x64\vc15\bin\opencv_core_parallel_openmp452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load opencv_core_parallel_openmp452_64d.dll => FAILED
+matrix_coordinate:132 sub-pixel_coordinate:1277.353 303.879
+matrix_coordinate:133 sub-pixel_coordinate:1303.149 305.928
+matrix_coordinate:134 sub-pixel_coordinate:1327.935 308.052
+matrix_coordinate:135 sub-pixel_coordinate:1353.683 309.898
+matrix_coordinate:136 sub-pixel_coordinate:1378.710 311.924
+matrix_coordinate:137 sub-pixel_coordinate:1404.605 314.195
+matrix_coordinate:121 sub-pixel_coordinate:1275.892 318.733
+matrix_coordinate:122 sub-pixel_coordinate:1301.424 320.826
+matrix_coordinate:123 sub-pixel_coordinate:1326.954 322.908
+matrix_coordinate:124 sub-pixel_coordinate:1352.458 324.993
+matrix_coordinate:125 sub-pixel_coordinate:1378.260 327.265
+matrix_coordinate:126 sub-pixel_coordinate:1403.866 329.375
+matrix_coordinate:110 sub-pixel_coordinate:1273.919 338.233
+matrix_coordinate:111 sub-pixel_coordinate:1299.527 340.464
+matrix_coordinate:112 sub-pixel_coordinate:1325.365 342.620
+matrix_coordinate:113 sub-pixel_coordinate:1350.977 344.698
+matrix_coordinate:114 sub-pixel_coordinate:1376.724 346.873
+matrix_coordinate:115 sub-pixel_coordinate:1402.830 349.328
+matrix_coordinate:99 sub-pixel_coordinate:1271.673 361.500
+matrix_coordinate:100 sub-pixel_coordinate:1297.391 363.708
+matrix_coordinate:101 sub-pixel_coordinate:1323.134 365.965
+matrix_coordinate:102 sub-pixel_coordinate:1349.046 368.089
+matrix_coordinate:103 sub-pixel_coordinate:1374.941 370.470
+matrix_coordinate:104 sub-pixel_coordinate:1400.926 372.850
+matrix_coordinate:88 sub-pixel_coordinate:1269.249 386.818
+matrix_coordinate:89 sub-pixel_coordinate:1295.099 389.243
+matrix_coordinate:90 sub-pixel_coordinate:1320.754 391.526
+matrix_coordinate:91 sub-pixel_coordinate:1346.778 393.696
+matrix_coordinate:92 sub-pixel_coordinate:1372.467 396.016
+matrix_coordinate:93 sub-pixel_coordinate:1398.776 398.434
+matrix_coordinate:77 sub-pixel_coordinate:1267.026 412.335
+matrix_coordinate:78 sub-pixel_coordinate:1292.555 414.694
+matrix_coordinate:79 sub-pixel_coordinate:1318.445 416.895
+matrix_coordinate:80 sub-pixel_coordinate:1344.140 419.147
+matrix_coordinate:81 sub-pixel_coordinate:1370.149 421.458
+matrix_coordinate:82 sub-pixel_coordinate:1396.069 423.935
+matrix_coordinate:66 sub-pixel_coordinate:1264.717 436.090
+matrix_coordinate:67 sub-pixel_coordinate:1290.454 438.487
+matrix_coordinate:68 sub-pixel_coordinate:1315.943 440.745
+matrix_coordinate:69 sub-pixel_coordinate:1341.786 443.096
+matrix_coordinate:70 sub-pixel_coordinate:1367.368 445.424
+matrix_coordinate:71 sub-pixel_coordinate:1393.409 447.931
+matrix_coordinate:55 sub-pixel_coordinate:1263.109 456.704
+matrix_coordinate:56 sub-pixel_coordinate:1288.370 459.037
+matrix_coordinate:57 sub-pixel_coordinate:1313.931 461.445
+matrix_coordinate:58 sub-pixel_coordinate:1339.162 463.752
+matrix_coordinate:59 sub-pixel_coordinate:1364.981 466.137
+matrix_coordinate:60 sub-pixel_coordinate:1390.285 468.455
+E:\CheckboardLocalization\self_identifying_markers_stereo_sfm_demo\registration_image\a5\image_21_a5.jpgprocessed!
